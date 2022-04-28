@@ -1,0 +1,39 @@
+﻿@model IEnumerable<WCFClient.ServiceReference1.Product>
+
+@{
+    ViewBag.Title = "ListProduct";
+}
+
+<h2>ListProduct</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+
+<div class="row">
+
+    @foreach (var item in Model)
+    {
+        <div class="col-lg-3">
+            <div class="card-sl">
+                <div class="card-image">
+                    <img src="@Html.DisplayFor(modelItem => item.Thumbnail)" style="width:100%" />
+                </div>
+                <div class="card-heading">
+                    @Html.DisplayFor(modelItem => item.Name)
+                </div>
+                <div class="card-text">
+                    @Html.DisplayFor(modelItem => item.Description)
+                </div>
+                <div class="card-text">
+                    $@Html.DisplayFor(modelItem => item.Price)
+                </div>
+                <a href="#" class="card-button">
+                    Thêm vào giỏ hàng
+                </a>
+            </div>
+        </div>
+    }
+
+</div>

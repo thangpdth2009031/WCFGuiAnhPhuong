@@ -1,0 +1,13 @@
+C:\Users\trieu\source\repos\WCFServer\WCFServer\bin\WCFServer.dll.config
+C:\Users\trieu\source\repos\WCFServer\WCFServer\bin\WCFServer.dll
+C:\Users\trieu\source\repos\WCFServer\WCFServer\bin\WCFServer.pdb
+C:\Users\trieu\source\repos\WCFServer\WCFServer\bin\EntityFramework.dll
+C:\Users\trieu\source\repos\WCFServer\WCFServer\bin\EntityFramework.SqlServer.dll
+C:\Users\trieu\source\repos\WCFServer\WCFServer\bin\EntityFramework.xml
+C:\Users\trieu\source\repos\WCFServer\WCFServer\bin\EntityFramework.SqlServer.xml
+C:\Users\trieu\source\repos\WCFServer\WCFServer\obj\Debug\WCFServer.csproj.CoreCompileInputs.cache
+C:\Users\trieu\source\repos\WCFServer\WCFServer\obj\Debug\WCFServer.dll
+C:\Users\trieu\source\repos\WCFServer\WCFServer\obj\Debug\WCFServer.pdb
+C:\Users\trieu\source\repos\WCFServer\WCFServer\obj\Debug\WCFServer.Migrations.InitData.resources
+C:\Users\trieu\source\repos\WCFServer\WCFServer\obj\Debug\WCFServer.csproj.GenerateResource.cache
+C:\Users\trieu\source\repos\WCFServer\WCFServer\obj\Debug\WCFServer.csproj.AssemblyReference.cache
